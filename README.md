@@ -1,5 +1,5 @@
 # LineUp
-A productivity enhancement app for scheduling tasks with timer for each task
+A productivity enhancement app for scheduling tasks with timer
 
 <img align="left" width="40%" src="https://github.com/Sahil-77/LineUp/blob/master/app/src/main/res/drawable/boutfragmentimageone.png">
 <img width="40%" src="https://github.com/Sahil-77/LineUp/blob/master/app/src/main/res/drawable/rolltwofinal.png">
