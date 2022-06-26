@@ -19,5 +19,5 @@ https://user-images.githubusercontent.com/75617193/145666946-3370f30c-77e8-4cb9-
 - Search tasks
 
 ## Creators: 
-- [Sahil Mahajan](https://github.com/Sahil-77)
+- [Sahil Mahajan](https://github.com/SahilAdmin)
 - [Vinayak Mishra](https://github.com/VinayakMishraCoder)
